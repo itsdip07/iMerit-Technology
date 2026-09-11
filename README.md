@@ -1,4 +1,4 @@
-💼 iMerit Technology
+🔥 iMerit Technology
 
 🚀 My Professional Workspace — Projects • Work • Learning • Contributions
 
