@@ -22,9 +22,9 @@ Since joining iMerit, I have been actively contributing to critical data pipelin
 - **Core Tasks:** Bounding Box Annotation, Image Output Editing, Image Preference Tasks
 
 ## 🛠️ Tech Stack & Tools
-- **Annotation & UI:** `Ango Hub` `Ice Cow UI`
+- **Annotation & UI:** `Ango Hub` `Can't Expose!`
 - **AI & Development:** `OpenAI ChatGPT` `Google AI Studio` `Google AI Pro` `Google Workspace AI`
-- **Learning & Platforms:** `GitHub` `HackerRank` `DoSelect` `Infosys Springboard`
+- **Learning & Platforms:** `GitHub` `Learn by iMerit` `` ``
 
 ## 📁 Repository Structure
 - 📂 **[Projects/](./Projects/)** — Core professional projects, technical contributions, and experiments (including Stack AV and Latitude AI).
