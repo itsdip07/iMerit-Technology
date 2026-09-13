@@ -3,7 +3,7 @@
 
 <div align="center">
   <!-- Profile Photo -->
-  <img src="PassportPhoto1.jpeg" alt="Dipayan Maiti" width="150" height="150" style="border-radius: 50%; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.5);" />
+  <img src="PassportPhoto.jpeg" alt="Dipayan Maiti" width="150" height="150" style="border-radius: 50%; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.5);" />
   
   <br><br>
 
