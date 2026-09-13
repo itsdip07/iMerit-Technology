@@ -39,9 +39,7 @@ Since joining iMerit, I have been actively contributing to critical data pipelin
 <!-- Colorful Footer -->
 <!-- Developer Vibe Footer -->
 <!-- Code Snippet Footer -->
+<!-- Developer Vibe Footer -->
 <div align="center">
-  <code>
-    &lt;!-- Empowering AI through precise data --&gt;<br>
-    while (alive) { learn(); annotate(); build(); }
-  </code>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=%3E_+$+Empowering+AI+through+precise+data...;%3E_+$+Building+scalable+AI+solutions...;%3E_+$+while(alive)+%7B+annotate()+%7D" alt="Developer Terminal Footer" />
 </div>
