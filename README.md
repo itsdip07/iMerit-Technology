@@ -32,7 +32,7 @@ Since joining iMerit, I have been actively contributing to critical data pipelin
 
 ## 📫 Connect With Me
 - **GitHub:** [@itsdip07](https://github.com/itsdip07)
-- **LinkedIn:** [Dipayan Maiti](#) (https://www.linkedin.com/in/dipayan-maiti/)
+- **LinkedIn:** [Dipayan Maiti](https://www.linkedin.com/in/dipayan-maiti/)
 
 <br>
 
