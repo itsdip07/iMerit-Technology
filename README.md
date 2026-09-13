@@ -37,6 +37,7 @@ Since joining iMerit, I have been actively contributing to critical data pipelin
 <br>
 
 <!-- Colorful Footer -->
+<!-- Developer Vibe Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=70&section=footer&text=Empowering%20AI%20through%20precise%20data&fontSize=20" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%3E_+$+Empowering+AI+through+precise+data...;%3E_+$+Building+scalable+AI+solutions...;%3E_+$+while(alive)+%7B+annotate()+%7D" alt="Developer Terminal Footer" />
 </div>
