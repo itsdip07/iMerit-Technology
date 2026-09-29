@@ -14,7 +14,7 @@
 ---
 
 ## 👨‍💻 About Me
-Welcome to my professional workspace! I am currently working in data annotation at **iMerit Technology Services**, focusing on high-quality data processing for AI and machine learning models. Alongside my professional role, I am affiliated with **Sister Nivedita University** and am deeply passionate about modern artificial intelligence tools, continuous learning, and building scalable projects.
+Welcome my professional workspace! I am currently working in data annotation at **iMerit Technology Services**, focusing on high-quality data processing for AI and machine learning models. Alongside my professional role, I am affiliated with **Sister Nivedita University** and am deeply passionate about modern artificial intelligence tools, continuous learning, and building scalable projects.
 
 ## 🚀 My iMerit Journey
 Since joining iMerit, I have been actively contributing to critical data pipelines to ensure the precision and accuracy of AI training data.
